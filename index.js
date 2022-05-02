@@ -1,4 +1,4 @@
-const TelegramApi = require('node-telegram-bot-api')
+const TelegramApi = require('https://github.com/yagop/node-telegram-bot-api')
 const { ReadableStreamBYOBReader } = require('stream/web')
 
 const token = '5114589412:AAE1JO1uswQrvoDkALopCiRAdn4SBOgiAWM'
